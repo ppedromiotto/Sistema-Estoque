@@ -1,7 +1,11 @@
-Sistema de Gerenciamento de Estoque
+#*Sistema de Gerenciamento de Estoque*
+
+
 Este projeto é um Sistema de Gerenciamento de Estoque desenvolvido em Python utilizando a biblioteca PySimpleGUI para criar a interface gráfica. O sistema permite realizar diversas operações relacionadas ao gerenciamento de estoque, como cadastrar produtos, listar produtos com estoque baixo, vender produtos, entre outras funcionalidades.
 
-Funcionalidades
+##*Funcionalidades*
+
+
 Cadastrar Produto: Permite cadastrar novos produtos no sistema, inserindo informações como nome, descrição, categoria, quantidade, preço de custo e preço de venda.
 
 Descrição Simples dos Produtos Cadastrados: Exibe uma lista simples com o nome e a quantidade em estoque de todos os produtos cadastrados.
